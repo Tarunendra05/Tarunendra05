@@ -26,9 +26,9 @@
 <hr>
 
 ### :man_technologist: About Me :
-😄 I am a MERN Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-🌱 I’m currently learning Next.js.
-👯 I’m looking to collaborate on web development projects.
+😄 I am a MERN Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.<br>
+🌱 I’m currently learning Next.js.<br>
+👯 I’m looking to collaborate on web development projects.<br>
 
 <!--
 **Tarunendra05/Tarunendra05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
